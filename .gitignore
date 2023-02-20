@@ -1,0 +1,15 @@
+*.exe
+*.cfg
+.vs
+.vscode
+cmake
+.idea
+.dump
+build
+*.idea
+cpplint.py
+execute.sh
+cmake-build-debug
+filter_options
+!convenciones.txt
+!CMakeLists.txt

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>arena.png</file>
+        <file>roca.png</file>
+        <file>tile_arena.png</file>
+        <file>tile_cimas.png</file>
+        <file>tile_dunas.png</file>
+        <file>tile_precipicio.png</file>
+        <file>tile_roca.png</file>
+        <file>tile_vacio.jpg</file>
+        <file>music.ogg</file>
+        <file>mute_icon.png</file>
+        <file>centros_construccion.png</file>
+        <file>centro_1.png</file>
+        <file>tile_especia.png</file>
+        <file>play.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
