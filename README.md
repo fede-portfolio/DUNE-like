@@ -3,13 +3,6 @@
 Dune es un juego de estrategia en tiempo real basado en el icónico juego Dune 2000 de Westwood Studios
 del año 1998 ambientado en la novela Dune de Frank Herbert.
 
-| Integrantes        | Padron |
-|--------------------|--------|
-| Ledesma, Dylan     | 102876 |
-| Riluizaga, Ricardo | 87528  |
-| Codino, Federico   |        |
-
-
 ## Compilar el proyecto:
     > sudo ./installer.sh
 
@@ -26,15 +19,6 @@ del año 1998 ambientado en la novela Dune de Frank Herbert.
          * Nombre
          * Casa con la que jugará
     2> Permitir elegirle al jugador si quiere crear o unirse a una partida (el server ya la debe haber podido enviar la lista de partidas actuales que hay creadas)
-
-## Evolucion del Proyecto
-
-### Server
-#### Algoritmo A*
-* A representa el terreno Arena
-* B representa posiciones bloqueadas en el mapa
-* C representa el camino que tomo la unidad para llegar a destino
-![](utils/Astar.png)
 
 
 
